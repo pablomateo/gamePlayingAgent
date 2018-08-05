@@ -6,6 +6,7 @@ AI Project - Adversarial agent to play the game isolation between two knights in
 # Build a Game-playing Agent
 
 ![Example game of isolation](viz.gif)
+
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. I first explain how you can download it and test it. Next, I have added Udacity´s original instructions for completing the project.
 You can also find my **Heuristic Analysis** assignment and a **Research Review** of Alpha Go, both in pdf format.
 
